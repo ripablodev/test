@@ -3,6 +3,9 @@ SPA publica
 
 	home
 	{
+		
+		use BBDD
+		
 		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent justo dolor, venenatis eget commodo ut, pretium in metus. Cras sem tellus, laoreet nec hendrerit nec, ultrices quis est. In vestibulum laoreet turpis ut molestie. Mauris in condimentum dui. In ultricies ullamcorper pellentesque. Sed consectetur tincidunt est, et molestie metus finibus placerat. Vestibulum commodo lectus id libero gravida iaculis.
 
 		Proin sit amet tellus diam. Donec commodo libero sed lectus lobortis pellentesque. Ut ipsum sem, sagittis in sem in, ultricies semper ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla luctus ex mauris, eu ultrices est porttitor tempus. Fusce sit amet sapien nec metus rhoncus efficitur. Curabitur vitae rutrum justo, id faucibus ante. Curabitur pellentesque nisi urna, sit amet vulputate sem fermentum at. Proin a ipsum sed quam pharetra interdum. Vivamus orci augue, condimentum nec feugiat non, pretium in lacus. Pellentesque eget sem et est consectetur luctus dignissim vitae enim. Duis nec enim rhoncus mauris laoreet venenatis eu ac arcu. Pellentesque faucibus, massa non suscipit suscipit, lectus urna porttitor nisl, sed vehicula velit ex vitae lorem. Nullam imperdiet lorem eu metus interdum facilisis.
@@ -41,6 +44,8 @@ SPA publica
 
 		agrupadores
 		{
+			use BBDD
+			
 			Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 			Cras sagittis dolor in aliquam dignissim.
 			Vivamus in tortor vitae orci convallis fringilla.
@@ -114,6 +119,8 @@ SPA publica
 
 		cards
 		{
+			use BBDD
+			
 			Maecenas feugiat tellus dictum, gravida leo vel, convallis erat.
 			Pellentesque egestas dui euismod, tincidunt ante ac, consectetur velit.
 			Proin ac urna sed sem fermentum interdum et vel velit.
@@ -150,6 +157,8 @@ SPA publica
 		
 		comercios_cercanos
 		{
+			use BBDD
+			
 			In a eros eu libero efficitur convallis a sit amet turpis.
 			Nunc vitae turpis tempor, accumsan sem eu, pulvinar nibh.
 			Vivamus facilisis mauris non nibh pharetra, ac tincidunt nunc hendrerit.
