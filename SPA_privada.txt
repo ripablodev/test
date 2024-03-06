@@ -5,6 +5,7 @@ SPA privada
 	{
 		Proin sit amet tellus diam. Donec commodo libero sed lectus lobortis pellentesque. Ut ipsum sem, sagittis in sem in, ultricies semper ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla luctus ex mauris, eu ultrices est porttitor tempus. Fusce sit amet sapien nec metus rhoncus efficitur. Curabitur vitae rutrum justo, id faucibus ante. Curabitur pellentesque nisi urna, sit amet vulputate sem fermentum at. Proin a ipsum sed quam pharetra interdum. Vivamus orci augue, condimentum nec feugiat non, pretium in lacus. Pellentesque eget sem et est consectetur luctus dignissim vitae enim. Duis nec enim rhoncus mauris laoreet venenatis eu ac arcu. Pellentesque faucibus, massa non suscipit suscipit, lectus urna porttitor nisl, sed vehicula velit ex vitae lorem. Nullam imperdiet lorem eu metus interdum facilisis.
 
+		use BBDD
 		Nullam varius mattis erat ac posuere. Integer at vestibulum enim, vitae vehicula mi. Nulla facilisi. Quisque ac hendrerit nibh. Nullam orci sapien, varius vel semper ut, pulvinar non arcu. Nunc rutrum rhoncus augue, a pretium felis tempor eget. Ut congue massa dolor, vitae porttitor odio dapibus nec. Pellentesque ac ligula eu sem varius sodales. Suspendisse ut tincidunt odio. Suspendisse hendrerit neque sit amet dui dapibus, vel lobortis turpis vehicula.
 
 		Cras facilisis fringilla dignissim. Aliquam erat volutpat. Quisque facilisis, velit quis condimentum vulputate, orci eros cursus risus, sed tristique turpis dolor sit amet ex. Phasellus ornare dictum mi, hendrerit dapibus ante posuere eu. Pellentesque quis luctus neque, ac viverra elit. Donec id nulla sagittis, efficitur arcu eu, aliquam risus. Quisque sed felis vel nulla sodales varius. Sed lobortis pharetra ex non pretium.
@@ -40,6 +41,7 @@ SPA privada
 
 		agrupadores
 		{
+			use BBDD
 			Tarjetas del cliente
 			Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 			Cras sagittis dolor in aliquam dignissim.
@@ -115,6 +117,7 @@ SPA privada
 
 		cards
 		{
+			use BBDD
 			Maecenas feugiat tellus dictum, gravida leo vel, convallis erat.
 			Pellentesque egestas dui euismod, tincidunt ante ac, consectetur velit.
 			Proin ac urna sed sem fermentum interdum et vel velit.
@@ -156,6 +159,7 @@ SPA privada
 			Vivamus facilisis mauris non nibh pharetra, ac tincidunt nunc hendrerit.
 			Integer dictum risus eu felis posuere condimentum.
 			Suspendisse at ex tristique, fringilla quam vitae, consectetur lectus.
+			use BBDD
 			Aliquam non ante non elit commodo pellentesque at in magna.
 			Vestibulum blandit eros ornare semper lobortis.
 			Proin cursus quam at mauris bibendum, at consectetur mi lobortis.
@@ -178,7 +182,9 @@ SPA privada
 		Etiam aliquam tempor faucibus. Pellentesque aliquet, eros eget consequat ullamcorper, felis tellus volutpat elit, at elementum metus nulla ut risus. Nulla sit amet commodo sapien. Duis at nisi malesuada, tincidunt magna ac, accumsan felis. Vestibulum scelerisque hendrerit diam non consequat. Duis dui leo, ornare in odio sed, rutrum mattis elit. Vestibulum id neque neque. Phasellus gravida, purus nec convallis tincidunt, tellus turpis suscipit turpis, et sagittis odio odio scelerisque sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas magna augue, lacinia ut augue a, interdum tempus justo. Vivamus molestie pellentesque lectus, vel porta erat viverra ac.
 
 		Pellentesque eget dui commodo, sollicitudin lectus vel, sollicitudin sapien. Suspendisse vulputate leo risus, a posuere orci suscipit id. Fusce mattis, risus et auctor mollis, ligula orci tempor nisl, in eleifend sapien metus at felis. Sed sem tortor, fringilla pretium feugiat non, fringilla nec nulla. Mauris rutrum lacus eu porta blandit. Ut rutrum sit amet odio non luctus. Donec porttitor bibendum sapien nec pellentesque. Quisque vel volutpat libero. In in porta velit. Nulla facilisi. Sed eleifend nunc et lectus condimentum blandit. Maecenas lacinia, augue vitae commodo consequat, massa sem pretium ex, hendrerit aliquam massa dui ac arcu. Morbi sodales fermentum mollis. Mauris ornare nisi lorem, nec lobortis ipsum porttitor vel.
-
+		
+		use BBDD
+		
 		Fusce imperdiet eget nibh tincidunt malesuada. Nam ornare ligula vel posuere placerat. Nunc molestie mauris at dui blandit egestas. Quisque aliquam in mauris at efficitur. Integer suscipit congue est, quis pharetra ex. Donec tristique dolor tristique tellus porttitor sagittis. Quisque sit amet nisi pellentesque lectus volutpat congue sollicitudin id leo. Phasellus id maximus nisl. Donec rutrum arcu suscipit, lobortis urna id, tincidunt sem. Suspendisse imperdiet sed ex a pharetra. Morbi luctus felis id libero venenatis, in congue felis aliquam.
 
 		Maecenas feugiat magna arcu, id auctor justo porttitor et. Cras placerat, justo vitae ultrices euismod, elit lorem fringilla magna, ut ullamcorper nibh leo eget lorem. Phasellus consequat augue felis, id cursus nisl euismod non. Proin sed egestas elit. Vestibulum ut sem mollis purus tempus vehicula. Donec luctus sollicitudin metus sit amet ornare. Donec volutpat sit amet erat eget convallis. Nunc vitae tincidunt massa. Etiam metus neque, consectetur eget vehicula et, ultrices id sapien. Ut id lorem sed nunc lacinia lobortis viverra a dui.
